@@ -1,5 +1,5 @@
 variable "subscription_id" {
-  description = "95b5d884-8a57-4fa6-a8cf-8c66862b0c71"
+  description = "subscription_id"
 }
 variable "resource_group_name" {
   default = "nginx-aks-rg"
